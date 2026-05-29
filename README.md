@@ -474,8 +474,8 @@ public async Task ExecutarAsync_deve_retornar_sucesso_com_protocolo()
 ### Pré-requisitos
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
-- Certificado digital A1 ICP-Brasil (para transmissão real)
-- Schemas XSD oficiais (para validação real)
+- Certificado digital A1 ICP-Brasil
+- Schemas XSD oficiais
 
 ### Clonar e Compilar
 
